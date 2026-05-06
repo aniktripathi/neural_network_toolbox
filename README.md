@@ -1,5 +1,7 @@
 # 🧠 Deep Learning Toolbox
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://neuralnetworktoolbox-gbkcee7skvhjtrpxe3meuh.streamlit.app/)
+
 An interactive Streamlit dashboard for exploring deep learning models with full manual implementations — every forward pass, backprop step, and weight update is visible.
 
 ## 🚀 Quick Start
